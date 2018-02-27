@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4d3b955-255a-4977-ba1c-1f027bedb8fd" name="Default" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+=======
+<<<<<<< HEAD
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/images/Thumbs.db" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/bower_components/bootstrap/dist/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+=======
+      <change beforePath="" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/bower_components/bootstrap/dist/css/style.css" afterPath="" />
+>>>>>>> 0326246733fa0fbdb8a68e19ce5dca14227ca425
+      <change beforePath="$PROJECT_DIR$/imagenes/Agencia de viajes Bootcamp.jpg" afterPath="$PROJECT_DIR$/assets/images/Agencia de viajes Bootcamp.jpg" />
+      <change beforePath="$PROJECT_DIR$/imagenes/iconoweb.png" afterPath="$PROJECT_DIR$/assets/images/iconoweb.png" />
+      <change beforePath="$PROJECT_DIR$/imagenes/nathan-anderson-316188-unsplash.jpg" afterPath="$PROJECT_DIR$/assets/images/nathan-anderson-316188-unsplash.jpg" />
+>>>>>>> 4250e3d3fea5740411b3a92f94b339a57a4feb3a
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -24,18 +39,51 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="144">
               <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+=======
+<<<<<<< HEAD
+            <state relative-caret-position="288">
+              <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+=======
+            <state relative-caret-position="324">
+              <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+>>>>>>> 4250e3d3fea5740411b3a92f94b339a57a4feb3a
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+=======
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+>>>>>>> 0326246733fa0fbdb8a68e19ce5dca14227ca425
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+>>>>>>> 4250e3d3fea5740411b3a92f94b339a57a4feb3a
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state relative-caret-position="85">
+              <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+=======
             <state relative-caret-position="18">
+<<<<<<< HEAD
               <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+=======
+              <caret line="1" column="28" lean-forward="true" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+>>>>>>> 0326246733fa0fbdb8a68e19ce5dca14227ca425
+>>>>>>> 4250e3d3fea5740411b3a92f94b339a57a4feb3a
               <folding />
             </state>
           </provider>
@@ -58,7 +106,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/bower_components/bootstrap/dist/css/style.css" />
+<<<<<<< HEAD
+=======
         <option value="$PROJECT_DIR$/assets/images/index.html" />
+<<<<<<< HEAD
+=======
+>>>>>>> 0326246733fa0fbdb8a68e19ce5dca14227ca425
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
+>>>>>>> 4250e3d3fea5740411b3a92f94b339a57a4feb3a
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
       </list>
@@ -97,13 +152,30 @@
         <subPane>
           <expand>
             <path>
+              <item name="actividad_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="actividad_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+<<<<<<< HEAD
+=======
+            <path>
+<<<<<<< HEAD
+              <item name="actividad_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="actividad_1" type="462c0819:PsiDirectoryNode" />
+=======
               <item name="Actividad_1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Actividad_1" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 0326246733fa0fbdb8a68e19ce5dca14227ca425
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
+>>>>>>> 4250e3d3fea5740411b3a92f94b339a57a4feb3a
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+      <pane id="Scratches" />
+=======
+>>>>>>> 0326246733fa0fbdb8a68e19ce5dca14227ca425
       <pane id="Scope" />
     </panes>
   </component>
@@ -116,8 +188,13 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+<<<<<<< HEAD
+      <recent name="C:\Users\Fernando\Documents\actividad_1\assets\images" />
+      <recent name="C:\Users\Fernando\Documents\actividad_1\assets\css" />
+=======
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/assets/css" />
+>>>>>>> 0326246733fa0fbdb8a68e19ce5dca14227ca425
     </key>
   </component>
   <component name="RunDashboard">
@@ -153,13 +230,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519727078517</updated>
+<<<<<<< HEAD
+      <workItem from="1519727086687" duration="6771000" />
+      <workItem from="1519745821781" duration="1045000" />
+=======
       <workItem from="1519727086687" duration="9510000" />
+<<<<<<< HEAD
       <workItem from="1519745847247" duration="2455000" />
+=======
+      <workItem from="1519745847247" duration="992000" />
+>>>>>>> 0326246733fa0fbdb8a68e19ce5dca14227ca425
+>>>>>>> 4250e3d3fea5740411b3a92f94b339a57a4feb3a
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="11965000" />
+=======
+<<<<<<< HEAD
+    <option name="totallyTimeSpent" value="7822000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="75" y="44" width="1281" height="704" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25375494" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+=======
+    <option name="totallyTimeSpent" value="10502000" />
+>>>>>>> 4250e3d3fea5740411b3a92f94b339a57a4feb3a
   </component>
   <component name="ToolWindowManager">
     <frame x="74" y="26" width="1281" height="704" extended-state="0" />
@@ -174,11 +280,17 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.4918033" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21602787" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1544586" sideWeight="0.2704918" order="2" side_tool="true" content_ui="tabs" />
+>>>>>>> 0326246733fa0fbdb8a68e19ce5dca14227ca425
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+=======
+>>>>>>> 0326246733fa0fbdb8a68e19ce5dca14227ca425
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -199,11 +311,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css" />
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+=======
+>>>>>>> 0326246733fa0fbdb8a68e19ce5dca14227ca425
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/bower_components/bootstrap/assets/css/docs.min.css">
+=======
     <entry file="file://$PROJECT_DIR$/.gitignore">
+>>>>>>> 0326246733fa0fbdb8a68e19ce5dca14227ca425
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -213,12 +341,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state relative-caret-position="85">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+=======
         <state relative-caret-position="54">
           <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+>>>>>>> 0326246733fa0fbdb8a68e19ce5dca14227ca425
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+=======
     <entry file="file://$PROJECT_DIR$/assets/images/iconoweb.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -247,8 +386,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="18">
           <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+=======
+        <state relative-caret-position="324">
+          <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+>>>>>>> 0326246733fa0fbdb8a68e19ce5dca14227ca425
+>>>>>>> 4250e3d3fea5740411b3a92f94b339a57a4feb3a
           <folding />
         </state>
       </provider>
