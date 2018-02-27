@@ -1,10 +1,16 @@
 header{
 
+  background-image: url("../images/nathan-anderson-316188-unsplash.jpg");
+  background-size: cover;
+}
+
+
 #presentation
 {
   font-family: 'Lobster', cursive;
   text-align: center;
-  background-image: url("../images/nathan-anderson-316188-unsplash.jpg");
+
+
 }
 
 #pres1
