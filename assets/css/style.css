@@ -1,6 +1,32 @@
+
+
 header{
-  background-image: url("../images/nathan-anderson-316188-unsplash.jpg");
-  background-size: cover;
+    background: url("../images/nathan-anderson-316188-unsplash.jpg") no-repeat center center;
+    background-size: cover;
+    height: 70vh;
+}
+
+.logoHeader{
+    width: 10vw;
+}
+
+.redesSocial{
+    list-style-type: none;
+}
+
+.redesSocial li{
+    float: left;
+    margin-right: 0.5em;
+}
+
+.slogan{
+    text-align: left;
+    color: white;
+    font-size:3em;
+}
+
+.slogan button{
+    margin-left: 3em;
 }
 
 #presentation

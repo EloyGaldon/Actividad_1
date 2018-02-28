@@ -6,48 +6,72 @@
         <title>GeeksHub Tour</title>
         <meta name="author" content="Eloy Galdon">
 
-
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
-    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
-
+        <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
+        <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+        <link rel="stylesheet" href="assets/css/style.css">
     </head>
 
 <body>
 
-    <header class="container-fluid">
-        <div class="row">
-            <div class="col-md-4">
-                <a href="index.html" title="GeeksHub Tour">
-                    <img src="assets/images/iconoweb.png" alt="logo empresa" class="img-fluid"
-                </a>
-                <p>GeeksHub <br> Tour</p>
+    <header>
 
-            </div>
-            <div class="col-md-4">
-                <ul class="nav">
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Destinos</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Quien somos</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">Donde estamos</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="col-md-4">
+            <nav class="navbar navbar-expand-lg navbar-dark">
+                <div class="col-md-4">
+                    <a href="index.html" title="GeeksHub Tour">
+                        <img src="assets/images/iconoweb.png" alt="logo empresa" class="img-fluid logoHeader">
+                     </a>
+                </div>
+                <div class="col-md-8">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
 
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="#" title="Destinos">Destinos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#" title="Eventos">Quien somos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#" title="Donde estamos">Donde estamos</a>
+                            </li>
+                        </ul>
+
+
+                        <ul class="redesSocial">
+                            <li><a href="#" class="badge badge-pill badge badge-primary"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="#" class="badge badge-pill badge badge-success"><i class="fab fa-whatsapp"></i></a></li>
+                            <li><a href="#" class="badge badge-pill badge badge-primary"><i class="fab fa-facebook-square"></i></a></li>
+                            <li><a href="#" class="badge badge-pill badge badge-info"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="#" class="badge badge-pill badge badge-primary"><i class="fab fa-linkedin"></i></a></li>
+                            <li><a href="#" class="badge badge-pill badge badge-danger"><i class="fab fa-youtube"></i></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </nav>
+        <div class="container-fluid" class="header">
+            <div class="row">
+                <div class="col-md-4 offset-md-4 slogan">
+                    <h1><b>Viaja !</b></h1>
+                    <h2>Descubre lugares maravillosos</h2>
+                    <button type="button" class="btn btn-warning btn-lg">Ver destinos</button>
+                </div>
             </div>
         </div>
 
+
+
     </header>
+
+
 
     <section id="presentation" class="container-fluid">
         <div class="row">
-        <h1>Viaja con Nosotros!</h1>
-            <h2>Descubre el mundo entero</h2>
+
         </div>
     </section>
 
@@ -55,9 +79,9 @@
 
     </footer>
 
-<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
-<script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-
+    <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
 </body>
 
 </html>
