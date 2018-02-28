@@ -12,36 +12,6 @@ header{
 }
 
 
-#presentation
-{
-  font-family: 'Lobster', cursive;
-  text-align: center;
-  background-image: url("../images/nathan-anderson-316188-unsplash.jpg");
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  // background-attachment: fixed;
-  height: 100%;
-    width: 100%;
-  -webkit-text-stroke: 1px black;
-  color: aliceblue;
-
-}
-
-#pres1
-{
-  font-size: 6em;
-  letter-spacing: 6.5px;
-}
-
-
-
-#pres2
-{
-  font-size: 2em;
-  letter-spacing: 1.5px;
-}
-
 .wrapper
 {
 
@@ -49,17 +19,40 @@ header{
 
 .viaje
 {
-    margin: 4px;
-    //padding: 2px;
-    background-color: black;
-    position: center
+    margin: 26px;
+    border-radius: 4px;
+    padding: 0;
+}
 
+.descuento
+{
+    background-color: #ff000e;
+    padding-left: 0;
+    text-align: center;
+    margin-top: -5px;
 }
 
 .precio
 {
-    background-color: #ff000e;
-    //margin-bottom: -6px;
+    background-color: #34ce57;
+    padding-right: 0px;
+    margin-left: -20px;
+    margin-top: -5px;
+}
+
+img
+{
+    margin: 0;
+    width: 245px;
+    height: 250px;
+    border-radius: 4px;
+    border-color: black;
+
+}
+
+#destinos
+{
+    background-color: rgba(190, 188, 191, 0.52);
 }
 
 
