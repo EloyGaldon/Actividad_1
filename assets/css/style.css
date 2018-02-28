@@ -27,9 +27,65 @@ header{
 
 .slogan button{
     margin-left: 3em;
+
+html
+{
+    height: 100%;
+    //overflow: scroll;
 }
+
+
+
+
 
 #presentation
 {
   font-family: 'Lobster', cursive;
+  text-align: center;
+  background-image: url("../images/nathan-anderson-316188-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* background-attachment: fixed;*/
+  height: 100%;
+    width: 100%;
+  -webkit-text-stroke: 1px black;
+  color: aliceblue;
+
 }
+
+#pres1
+{
+  font-size: 6em;
+  letter-spacing: 6.5px;
+}
+
+
+
+#pres2
+{
+  font-size: 2em;
+  letter-spacing: 1.5px;
+}
+
+.wrapper
+{
+
+}
+
+.viaje
+{
+    margin: 4px;
+    padding: 2px;
+    background-color: black;
+    position: center
+
+}
+
+.precio
+{
+    background-color: #ff000e;
+    /*margin-bottom: -6px;*/
+}
+
+
