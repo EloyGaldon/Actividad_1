@@ -25,9 +25,9 @@ header{
     font-size:3em;
 }
 
-.slogan button{
+.slogan button {
     margin-left: 3em;
-
+}
 html
 {
     height: 100%;
@@ -87,5 +87,34 @@ html
     background-color: #ff000e;
     /*margin-bottom: -6px;*/
 }
+
+.foot{
+    color: #ffffff;
+    text-align: center;
+    padding-top: 2em;
+}
+
+.foot ul{
+    list-style-type: none;
+}
+
+.foot a:link {
+    color: #ffffff;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+
+
+.foot a:hover {
+    color: #4682b4;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.foot hr{
+    background-color:#ffffff;
+}
+
 
 
