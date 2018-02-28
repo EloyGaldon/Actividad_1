@@ -5,7 +5,6 @@ html
 }
 
 
-
 header{
 
 
@@ -29,9 +28,6 @@ header{
 
 }
 
-
-
-
 #pres1
 {
   font-size: 6em;
@@ -44,6 +40,26 @@ header{
 {
   font-size: 2em;
   letter-spacing: 1.5px;
+}
+
+.wrapper
+{
+
+}
+
+.viaje
+{
+    margin: 4px;
+    //padding: 2px;
+    background-color: black;
+    position: center
+
+}
+
+.precio
+{
+    background-color: #ff000e;
+    //margin-bottom: -6px;
 }
 
 
