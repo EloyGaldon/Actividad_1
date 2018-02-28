@@ -31,7 +31,6 @@ header{
     margin-left: 3em;
 }
 
-
 html
 {
     height: 100%;
@@ -90,9 +89,35 @@ img
     border-color: black;
 }
 
-#destinos
-{
-    background-color: aliceblue;
+
+
+.foot{
+    color: #ffffff;
+    text-align: center;
+    padding-top: 2em;
 }
+
+.foot ul{
+    list-style-type: none;
+}
+
+.foot a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+
+
+.foot a:hover {
+    color: #4682b4;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+.foot hr{
+    background-color:#ffffff;
+}
+
 
 
