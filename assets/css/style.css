@@ -102,15 +102,21 @@ img
 }
 
 .foot a:link {
-    color: white;
+    color: #ffffff;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.foot a:visited
+{
+    color: #ffffff;
     background-color: transparent;
     text-decoration: none;
 }
 
 
-
 .foot a:hover {
-    color: #4682b4;
+    color: #fefcff;
     background-color: transparent;
     text-decoration: underline;
 }
