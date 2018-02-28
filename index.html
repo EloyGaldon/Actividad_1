@@ -1,22 +1,76 @@
 <!DOCTYPE html>
 <html lang="es">
-    <head>
+<head>
 
-        <meta charset="UTF-8">
-        <title>GeeksHub Tour</title>
-        <meta name="author" content="Eloy Galdon">
+    <meta charset="UTF-8">
+    <title>GeeksHub Tour</title>
+    <meta name="author" content="Eloy Galdon">
 
-
-    <link rel="stylesheet" href="assets/css/style.css">
     <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
     <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
-
-    </head>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
 
 <body>
 
+    <header>
+
+            <nav class="navbar navbar-expand-lg navbar-dark">
+                <div class="col-md-4">
+                    <a href="index.html" title="GeeksHub Tour">
+                        <img src="assets/images/iconoweb.png" alt="logo empresa" class="img-fluid logoHeader">
+                     </a>
+                </div>
+                <div class="col-md-8">
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="#destinos" title="Destinos">Destinos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#" title="Eventos">Quien somos</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#" title="Donde estamos">Donde estamos</a>
+                            </li>
+                        </ul>
+
+
+                        <ul class="redesSocial">
+                            <li><a href="#" class="badge badge-pill badge badge-primary"><i class="fab fa-twitter"></i></a></li>
+                            <li><a href="#" class="badge badge-pill badge badge-success"><i class="fab fa-whatsapp"></i></a></li>
+                            <li><a href="#" class="badge badge-pill badge badge-primary"><i class="fab fa-facebook-square"></i></a></li>
+                            <li><a href="#" class="badge badge-pill badge badge-info"><i class="fab fa-instagram"></i></a></li>
+                            <li><a href="#" class="badge badge-pill badge badge-primary"><i class="fab fa-linkedin"></i></a></li>
+                            <li><a href="#" class="badge badge-pill badge badge-danger"><i class="fab fa-youtube"></i></a></li>
+                        </ul>
+
+                    </div>
+                </div>
+            </nav>
+
+        <div class="container-fluid" class="header">
+            <div class="row">
+                <div class="col-md-4 offset-md-4 slogan">
+                    <h1><b>Viaja !</b></h1>
+                    <h2>Descubre lugares maravillosos</h2>
+                    <a href="#destinos"><button type="button" class="btn btn-warning btn-lg">Ver destinos</button></a>
+                </div>
+            </div>
+        </div>
+
+
+
+    </header>
+
 
     <section id="destinos">
+
 
         <div class="wrapper">
 
@@ -24,7 +78,7 @@
 
                 <div class="row">
 
-                    <div class="container-fluid viaje col-md-3">
+                    <div class="viaje col-4">
                         <img src="assets/images/paris.jpg" >
                         <div class="row">
                             <div class="col-md-6">
@@ -32,13 +86,13 @@
                                     Save 30€
                                 </div>
                             </div>
-                            <div class="col-md-4 precio" >
-                                270€
+                            <div class="col-md-6 precio" >
+                                Paris: 270€
                             </div>
                         </div>
                     </div>
 
-                    <div class="container-fluid viaje col-md-3">
+                    <div class="viaje col-4">
                         <img src="assets/images/london.jpg">
                         <div class="row">
                             <div class="col-md-6" >
@@ -46,13 +100,13 @@
                                     Save 35€
                                 </div>
                             </div>
-                            <div class="col-md-4 precio" >
-                                377€
+                            <div class="col-md-6 precio" >
+                                Londres: 377€
                             </div>
                         </div>
                     </div>
 
-                    <div class="container-fluid viaje col-md-3">
+                    <div class="viaje col-4">
                         <img src="assets/images/sydney.jpg">
                         <div class="row">
                             <div class="col-md-6">
@@ -60,8 +114,8 @@
                                     Save 60€
                                 </div>
                             </div>
-                            <div class="col-md-4 precio" >
-                                638€
+                            <div class="col-md-6 precio" >
+                                Sydney: 638€
                             </div>
                         </div>
                     </div>
@@ -69,7 +123,7 @@
                 </div>
 
                 <div class="row">
-                    <div class="container-fluid viaje col-md-3">
+                    <div class="viaje col-4">
                         <img src="assets/images/dubai.jpg">
                         <div class="row">
                             <div class="col-md-6">
@@ -77,13 +131,13 @@
                                    Save 55€
                                 </div>
                             </div>
-                            <div class="col-md-4 precio" >
-                                423€
+                            <div class="col-md-6 precio" >
+                                Dubai: 423€
                             </div>
                         </div>
                     </div>
 
-                    <div class="container-fluid viaje col-md-3">
+                    <div class="viaje col-4">
                         <img src="assets/images/valencia.jpg">
                         <div class="row">
                             <div class="col-md-6">
@@ -91,13 +145,13 @@
                                     Save 40€
                                 </div>
                             </div>
-                            <div class="col-md-4 precio" >
-                                250€
+                            <div class="col-md-6 precio" >
+                                Valencia: 250€
                             </div>
                         </div>
                     </div>
 
-                    <div class="container-fluid viaje col-md-3">
+                    <div class="viaje col-4">
                         <img src="assets/images/tokyo.JPG" >
                         <div class="row">
                             <div class="col-md-6">
@@ -105,8 +159,8 @@
                                     Save 70€
                                 </div>
                             </div>
-                            <div class="col-md-4 precio">
-                                537€
+                            <div class="col-md-6 precio">
+                                Tokio: 537€
                             </div>
                         </div>
                     </div>
@@ -118,6 +172,7 @@
 
             </div>
 
+
         </div>
 
     </section>
@@ -126,9 +181,9 @@
 
     </footer>
 
-<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
-<script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-
+    <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
 </body>
 
 </html>
