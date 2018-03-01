@@ -21,6 +21,7 @@ header{
     margin-right: 0.5em;
 }
 
+
 .slogan{
     text-align: left;
     color: white;
@@ -34,7 +35,7 @@ header{
 html
 {
     height: 100%;
-    //overflow: scroll;
+    /*overflow: scroll;*/
 }
 
 
