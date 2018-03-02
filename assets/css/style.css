@@ -82,17 +82,17 @@ html
 
 .descuento
 {
-    background-color: black;
+    background-color: #ffc93a;
     padding-left: 0;
     text-align: center;
     margin-top: -5px;
-    color: white;
+    color: #000000;
     font-size: 1em;
 }
 
 .precio
 {
-    background-color: #ce0400;
+    background-color: #0002ce;
     padding-right: inherit;
     margin-left: inherit;
     margin-top: -5px;
