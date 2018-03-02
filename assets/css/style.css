@@ -4,13 +4,11 @@ header{
     background: url("../images/nathan-anderson-316188-unsplash.jpg") no-repeat center center;
     background-size: cover;
     height: 70vh;
-    
-
 }
 
 
 .logoHeader{
-    width: 10vw;
+    width: 15vw;
 }
 
 .redesSocial{
@@ -39,9 +37,28 @@ html
 
 }
 
+.som{
+    background: url("../images/somos.jpg") no-repeat center center;
+    background-size: cover;
+    min-height: 70vh;
+    padding-top: 6vh;
+}
 
+.Qsomos{
+    background: white;
+    padding: 2vh;
+    border: 5px solid #0066ff;
+    border-radius: 1em;
+}
 
+.Qsomos h2{
+    text-decoration: underline;
+    text-decoration-color: #ffff00;
+}
 
+.buttonQsomos{
+    text-align: center;
+}
 
 .wrapper
 {
