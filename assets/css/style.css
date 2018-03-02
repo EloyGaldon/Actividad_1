@@ -4,13 +4,11 @@ header{
     background: url("../images/nathan-anderson-316188-unsplash.jpg") no-repeat center center;
     background-size: cover;
     height: 70vh;
-    
-
 }
 
 
 .logoHeader{
-    width: 10vw;
+    width: 15vw;
 }
 
 .redesSocial{
@@ -21,6 +19,7 @@ header{
     float: left;
     margin-right: 0.5em;
 }
+
 
 .slogan{
     text-align: left;
@@ -35,12 +34,32 @@ header{
 html
 {
     height: 100%;
-    /*overflow: hidden;*/
+
 }
 
+.som{
+    background: url("../images/somos.jpg") no-repeat center center;
+    background-size: cover;
+    min-height: 70vh;
+    padding-top: 6vh;
 
+}
 
+.Qsomos{
+    background: white;
+    padding: 2vh;
+    border: 5px solid #0066ff;
+    border-radius: 1em;
+}
 
+.Qsomos h2{
+    text-decoration: underline;
+    text-decoration-color: #ffff00;
+}
+
+.buttonQsomos{
+    text-align: center;
+}
 
 .wrapper
 {
@@ -132,11 +151,15 @@ img
     height: 400px;
     border:0;
     padding-bottom: 30px;
-    padding-left: 0px;
-    position: relative;
+    padding-top: 30px;
+    padding-left: 5px;
+    position: inherit;
+
 
 }
 
-
-
+.formulario
+{
+    padding-top: 0px;
+}
 
