@@ -41,13 +41,13 @@ html
     background: url("../images/somos.jpg") no-repeat center center;
     background-size: cover;
     min-height: 70vh;
-    padding-top: 6vh;
+    padding-top: 5vh;
 }
 
 .Qsomos{
     background: white;
     padding: 2vh;
-    border: 5px solid #0066ff;
+    border: 3px solid #0066ff;
     border-radius: 1em;
 }
 
@@ -164,4 +164,14 @@ img
     height: 25em;
 }
 
+/*
+@media (max-width: 700px){
+    #navbarSupportedContent{
+        position: fixed;
+        background:#1a8cff;
+        border: 1px solid black;
+        padding: 1em;
+        z-index: 1;
+    }
 
+}
