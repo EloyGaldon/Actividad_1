@@ -36,14 +36,27 @@ html
     height: 100%;
 
 }
-
-.som{
-    background: url("../images/somos.jpg") no-repeat center center;
-    background-size: cover;
-    min-height: 70vh;
-    padding-top: 5vh;
-
+@media (max-width: 500px)
+{
+    .som
+    {
+        background-image: none;
+        background-color: gray;
+    }
 }
+
+@media (min-width: 550px)
+{
+    .som {
+        background: url("../images/somos.jpg") no-repeat center center;
+        background-size: cover;
+        min-height: 70vh;
+        padding-top: 5vh;
+
+    }
+}
+
+
 
 .Qsomos{
     background: white;
@@ -165,6 +178,14 @@ img
 .formulario
 {
     padding-top: 0px;
+}
+
+}
+@media (min-width: 550px) {
+    .som {
+        background:none;
+        background-color: gray !important;
+    }
 }
 
 /*
