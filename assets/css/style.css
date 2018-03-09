@@ -53,6 +53,7 @@ html
 }
 
 .Qsomos h2{
+
     text-decoration: underline;
     text-decoration-color: #ffff00;
 }
@@ -84,6 +85,13 @@ html
     margin-top: -5px;
     color: #000000;
     font-size: 1em;
+}
+
+.header-text h3 span
+{
+    position: absolute;
+    top: -250px;
+    left: 15px;
 }
 
 .precio
